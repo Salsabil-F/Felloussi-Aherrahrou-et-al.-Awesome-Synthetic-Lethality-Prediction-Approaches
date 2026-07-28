@@ -41,7 +41,7 @@ This repo contains a curated list of the most remarkable SL prediction methods u
 | [An Interpretable Complex Knowledge Multi-Hop Reasoning Model for Predicting Synthetic Lethality in Human Cancers](https://ieeexplore.ieee.org/abstract/document/11219295) | [Code]( https://github.com/Cheng0829/EFOL-SL) | IEEE TCBB 2025 |
 | [SynLeaF: A Dual-Stage Multimodal Fusion Framework for Synthetic Lethality Prediction Across Pan- and Single-Cancer Contexts](https://arxiv.org/abs/2603.22369) | [Code](https://github.com/Jmpax404/SynLeaF) | arxiv 2026 |
 
-##Generative AI- and LLM- based approaches
+## Generative AI- and LLM- based approaches
 
 | Paper Title | Code | Source |
 | :--- | :---: | :--- |
