@@ -1,5 +1,5 @@
 # Awesome-SL-Prediction-Approaches
-This repo contains a curated list of the most remarkable SL prediction methods using GNN, KG and explainability. We classify them based on their architectures into:
+This repo contains a curated list of the most remarkable SL prediction methods using GNN, KG, XAI, GenAI and LLMs. We classify them here based on their architecture.
 ## KG_based GNN approaches
 
 | Paper Title | Code | Source |
@@ -56,3 +56,9 @@ This repo contains a curated list of the most remarkable SL prediction methods u
 | :--- | :---: | :--- |
 | [An interpretable artificial intelligence framework for designing synthetic lethality-based anti-cancer combination therapies](https://www.sciencedirect.com/science/article/pii/S2090123223003740) | [Code](https://github.com/Wingswang728/KDDSL) | JARE 2023 |
 | [Struct2SL: Synthetic lethality prediction based on AlphaFold2 structure information and Multilayer Perceptron](https://www.sciencedirect.com/science/article/pii/S2001037025001345) | [Code]( http://github.com/hyr-hit/Struct2SL) | CSBJ 2025 |
+
+## Raw Data
+[SynLethDB and SynLethKG](https://www.synlethdb.com/)
+[SLKG](https://www.slkg.net/)
+[SLKB](https://slkb.osubmi.org/)
+
