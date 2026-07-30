@@ -58,7 +58,7 @@ This repo contains a curated list of the most remarkable SL prediction methods u
 | [Struct2SL: Synthetic lethality prediction based on AlphaFold2 structure information and Multilayer Perceptron](https://www.sciencedirect.com/science/article/pii/S2001037025001345) | [Code]( http://github.com/hyr-hit/Struct2SL) | CSBJ 2025 |
 
 ## Raw Data
-[SynLethDB and SynLethKG](https://www.synlethdb.com/)
-[SLKG](https://www.slkg.net/)
+[SynLethDB and SynLethKG](https://www.synlethdb.com/)\
+[SLKG](https://www.slkg.net/)\
 [SLKB](https://slkb.osubmi.org/)
 
