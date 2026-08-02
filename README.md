@@ -14,6 +14,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [DSESL: A Deep Stacking Ensemble Model for Synthetic Lethality Prediction](https://ieeexplore.ieee.org/abstract/document/10830943) | [Code](https://github.com/TOJSSE-iData/DSESL/) | 
 | [Interpretable high-order knowledge graph neural network for predicting synthetic lethality in human cancers](https://academic.oup.com/bib/article/26/2/bbaf142/8107849) | [Code](https://github.com/CXX1113/DGIB4SL) | 
 ## KG_based path reasoning
+
 | Paper Title | Code |
 | :--- | :--- |
 | [KR4SL: knowledge graph reasoning for explainable prediction of synthetic lethality](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i158/7210467) | [Code]( https://github.com/JieZheng-ShanghaiTech/KR4SL.) |
