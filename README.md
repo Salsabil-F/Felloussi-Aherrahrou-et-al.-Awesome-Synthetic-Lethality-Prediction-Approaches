@@ -21,13 +21,6 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [Enhancing link prediction in biomedical knowledge graphs with BioPathNet](https://www.nature.com/articles/s41551-025-01598-z) | [Code](https://github.com/emyyue/BioPathNet) ||
 | [SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-Based Synthetic Lethal Prediction](https://ieeexplore.ieee.org/abstract/document/10693324) | [None] | 
 
-## Graph Attention-based approaches
-
-| Paper Title | Code |
-| :--- | :--- |
-| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder                    ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
-| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
-
 ## Graph-Transformer-based approaches
 
 | Paper Title | Code |
@@ -50,6 +43,13 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [MGANSL: multi-network representation generating with generative adversarial network for synthetic lethality prediction](https://link.springer.com/content/pdf/10.1186/s12859-025-06345-4.pdf) | [Code](https://github.com/lijinxinchina/MGANSL) |
 | [Prompt-based Generation of Natural Language Explanations of Synthetic Lethality for Cancer Drug Discovery](https://aclanthology.org/2024.lrec-main.1150/) | [Code](https://github.com/JieZhengShanghaiTech/NexLeth) | 
 | [SL-MERK: Synthetic Lethality Mechanism Explainer based on GraphRAG and Knowledge Graph](https://aclanthology.org/2024.lrec-main.1150/) | [None] |
+
+## Graph Attention-based approaches
+
+| Paper Title | Code |
+| :--- | :--- |
+| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder                    ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
+| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Other architectures
 
