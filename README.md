@@ -16,7 +16,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 ## KG_based path reasoning
 
 | Paper Title | Code |
-| :--- | :--- |
+| :---: | :---: |
 | [KR4SL: knowledge graph reasoning for explainable prediction of synthetic lethality](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i158/7210467) | [Code]( https://github.com/JieZheng-ShanghaiTech/KR4SL.) |
 | [Enhancing link prediction in biomedical knowledge graphs with BioPathNet](https://www.nature.com/articles/s41551-025-01598-z) | [Code](https://github.com/emyyue/BioPathNet) ||
 | [SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-Based Synthetic Lethal Prediction](https://ieeexplore.ieee.org/abstract/document/10693324) | [None] | 
@@ -24,14 +24,14 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 ## GAT-based approaches
 
 | Paper Title | Code |
-| :--- | :--- |
+| :---: | :---: |
 | [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto-Encoder](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |  
 | [Graph contextualized attention network for predicting synthetic lethality in human cancers](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Graph-Transformer-based approaches
 
 | Paper Title | Code |
-| :--- | :--- |
+| :---: | :---: |
 | [Multi-omics Sampling-based Graph Transformer for Synthetic Lethality Prediction](https://ieeexplore.ieee.org/abstract/document/10385953) | [None] | 
 | [Synthetic lethal connectivity and graph transformer improve synthetic lethality prediction](https://academic.oup.com/bib/article/25/5/bbae425/7745393) | [Code](https://github.com/kunjiefan/MLEC-iSL) | 
 | [Using graph-based model to identify cell specific synthetic lethal effects](https://www.sciencedirect.com/science/article/pii/S2001037023003641) | [Code]( https://github.com/promethiume/SLwise) | 
@@ -45,7 +45,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 ## Generative AI- and LLM- based approaches
 
 | Paper Title | Code | 
-| :--- | :--- |
+| :---: | :---: |
 | [Multimodal GAN Integrating Hypergraph and Knowledge Graph Representations for Synthetic Lethality](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_21) | [Code](https://github.com/wyl20181914/MGHK4SL) |
 | [MGANSL: multi-network representation generating with generative adversarial network for synthetic lethality prediction](https://link.springer.com/content/pdf/10.1186/s12859-025-06345-4.pdf) | [Code](https://github.com/lijinxinchina/MGANSL) |
 | [Prompt-based Generation of Natural Language Explanations of Synthetic Lethality for Cancer Drug Discovery](https://aclanthology.org/2024.lrec-main.1150/) | [Code](https://github.com/JieZhengShanghaiTech/NexLeth) | 
@@ -54,7 +54,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 ## Other architectures
 
 | Paper Title | Code | 
-| :--- | :--- |
+| :---: | :---: |
 | [An interpretable artificial intelligence framework for designing synthetic lethality-based anti-cancer combination therapies](https://www.sciencedirect.com/science/article/pii/S2090123223003740) | [Code](https://github.com/Wingswang728/KDDSL) | 
 | [Struct2SL: Synthetic lethality prediction based on AlphaFold2 structure information and Multilayer Perceptron](https://www.sciencedirect.com/science/article/pii/S2001037025001345) | [Code]( http://github.com/hyr-hit/Struct2SL) |
 
