@@ -44,19 +44,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [Prompt-based Generation of Natural Language Explanations of Synthetic Lethality for Cancer Drug Discovery](https://aclanthology.org/2024.lrec-main.1150/) | [Code](https://github.com/JieZhengShanghaiTech/NexLeth) | 
 | [SL-MERK: Synthetic Lethality Mechanism Explainer based on GraphRAG and Knowledge Graph](https://aclanthology.org/2024.lrec-main.1150/) | [None] |
 
-## Graph Attention-based approaches
 
-| Paper Title | Code |
-| :--- | :--- |
-| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder                    ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
-| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
-
-## Graph Attention-based approaches
-
-| Paper Title | Code | 
-| :--- | :--- |
-| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) | 
-| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Other architectures
 
@@ -64,6 +52,14 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | :--- | :--- |
 | [An interpretable artificial intelligence framework for designing synthetic lethality-based anti-cancer combination therapies](https://www.sciencedirect.com/science/article/pii/S2090123223003740) | [Code](https://github.com/Wingswang728/KDDSL) | 
 | [Struct2SL: Synthetic lethality prediction based on AlphaFold2 structure information and Multilayer Perceptron](https://www.sciencedirect.com/science/article/pii/S2001037025001345) | [Code]( http://github.com/hyr-hit/Struct2SL) |
+
+
+## Graph Attention-based approaches
+
+| Paper Title | Code |
+| :--- | :--- |
+| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder                    ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
+| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Raw Data
 [SynLethDB and SynLethKG](https://www.synlethdb.com/)\
