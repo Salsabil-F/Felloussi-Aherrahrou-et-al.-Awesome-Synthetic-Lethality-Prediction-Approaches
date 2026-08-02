@@ -3,7 +3,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 ## KG_based GNN approaches
 
 | Paper Title | Code |
-| :--- | :--- |
+| :---: | :---: |
 | [KG4SL: knowledge graph neural network for synthetic lethality prediction in human cancers](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i418/6319703) | [Code](https://github.com/JieZheng-ShanghaiTech/KG4SL) |
 | [PiLSL: pairwise interaction learning-based graph neural network for synthetic lethality prediction in human cancers](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii106/6701994) | [Code](https://github.com/JieZheng-ShanghaiTech/PiLSL) |
 | [SLGNN: synthetic lethality prediction in human cancers based on factor-aware knowledge graph neural network](https://academic.oup.com/bioinformatics/article/39/2/btad015/6988048) | [Code]( https://github.com/zy972014452/SLGNN) |
