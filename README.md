@@ -21,7 +21,7 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [Enhancing link prediction in biomedical knowledge graphs with BioPathNet](https://www.nature.com/articles/s41551-025-01598-z) | [Code](https://github.com/emyyue/BioPathNet) ||
 | [SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-Based Synthetic Lethal Prediction](https://ieeexplore.ieee.org/abstract/document/10693324) | [None] | 
 
-## GAT-based approaches
+## Graph Attention-based approaches
 
 | Paper Title | Code |
 | :--- | :--- |
