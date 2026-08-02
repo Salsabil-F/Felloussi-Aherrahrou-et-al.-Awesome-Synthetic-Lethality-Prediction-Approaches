@@ -25,8 +25,8 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 
 | Paper Title | Code |
 | :--- | :--- |
-| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto-Encoder             ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) ||  
-| [Graph contextualized attention network for predicting synthetic lethality in human cancers              ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) ||
+| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto-Encoder](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
+| [Graph contextualized attention network for predicting synthetic lethality in human cancers](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Graph-Transformer-based approaches
 
