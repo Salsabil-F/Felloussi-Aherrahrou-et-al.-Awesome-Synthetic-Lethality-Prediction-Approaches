@@ -1,5 +1,11 @@
 # Awesome-SL-Prediction-Approaches
 This repo contains a curated list of the most remarkable Synthetic Lethality(SL) prediction methods using Graph Neural Networks GNN), Knowledge Graph(KG), eXplainable AI (XAI), Generative AI (GenAI) and Large Language Methods (LLM). We classify them here based on their architecture.
+## Graph Attention-based approaches
+
+| Paper Title | Code |
+| :--- | :--- |
+| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto-Encoder](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
+| [Graph contextualized attention network for predicting synthetic lethality in human cancers](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 ## KG_based GNN approaches
 
 | Paper Title | Code |
@@ -53,13 +59,6 @@ This repo contains a curated list of the most remarkable Synthetic Lethality(SL)
 | [An interpretable artificial intelligence framework for designing synthetic lethality-based anti-cancer combination therapies](https://www.sciencedirect.com/science/article/pii/S2090123223003740) | [Code](https://github.com/Wingswang728/KDDSL) | 
 | [Struct2SL: Synthetic lethality prediction based on AlphaFold2 structure information and Multilayer Perceptron](https://www.sciencedirect.com/science/article/pii/S2001037025001345) | [Code]( http://github.com/hyr-hit/Struct2SL) |
 
-
-## Graph Attention-based approaches
-
-| Paper Title | Code |
-| :--- | :--- |
-| [Prediction of Synthetic Lethal Interactions in Human Cancers Using Multi-View Graph Auto Encoder                    ](https://ieeexplore.ieee.org/abstract/document/9428535) | [Code](https://github.com/DiNg1011/SLMGAE/tree/master) |
-| [Graph contextualized attention network for predicting synthetic lethality in human cancers                       ](https://academic.oup.com/bioinformatics/article/37/16/2432/6145565) | [Code](https://github.com/longyahui/GCATSL) |
 
 ## Raw Data
 [SynLethDB and SynLethKG](https://www.synlethdb.com/)\
